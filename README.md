@@ -9,3 +9,6 @@ Current release covers following eluents:
 97.5% Methanol and 2.5% Ammonia solution (25%) - 134 substances
 
 Ethyl acetate, methanol and (25%) ammonia – (85:10:5 v/v/v) - currently in development
+
+HOW TO CONTRIBUTE?
+To take the radio basically you have to make many tests per substance versus caffeine, in order for it to be accurate, at least 5x tests per substance, ideally in different days and then makes an average of their ratio. Otherwise you can make it using another substance then caffeine. For example if you have pure MDMA you can do all substances vs MDMA then you get the substance vs MDMA ratio and calculate what it would be vs caffeine too.
