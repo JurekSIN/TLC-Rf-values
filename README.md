@@ -13,3 +13,7 @@ Ethyl acetate, methanol and (25%) ammonia – (85:10:5 v/v/v) - currently in dev
 HOW TO CONTRIBUTE THE RATIOS?
 
 To take the ratio basically you have to make many tests per substance versus caffeine, in order for it to be accurate, at least 5x tests per substance, ideally in different days and then makes an average of their ratio. Otherwise you can make it using another substance then caffeine. For example if you have pure MDMA you can do all substances vs MDMA then you get the substance vs MDMA ratio and calculate what it would be vs caffeine too.
+
+WHY THIS METHOD?
+
+"When I initially made the tests there was no way of finding a substance's height if you didnt have the pure standard of it. Literature only talked about Rf's absolute values, and I made many tests noticing it would change A LOT. So those values didnt serve anything - it would change 3cm up and down the plate depending on the day, that made it useless. Then I started doing this thing vs caffeine, and noticed that from 3cm variation, I could get it down to 0.3cm variation, which is literally 10x better. Still not 100% perfect, but that would only be so with the pure standard. But considering we are talking about helping people that most likely wont have the pure standard, then we need to give them an alternative. That's the best i've found." by Endlessness
